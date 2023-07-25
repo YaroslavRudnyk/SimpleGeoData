@@ -1,0 +1,21 @@
+/bin
+/classes
+/gen
+/target/
+.idea
+*.iml
+*.apk
+/out/
+**/gen
+
+#Gradle
+.gradle
+build/
+local.properties
+
+/*.keystore
+
+#Local build properties
+build-properties.json
+**/release/google-services.json
+.DS_Store
